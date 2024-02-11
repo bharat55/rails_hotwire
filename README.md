@@ -8,3 +8,13 @@ Hotwire :-
         1. turbo_drive
         2. turbo_frame
         3. turbo_stream
+
+
+
+Setup Instruction :-
+
++ Take clone 
+
++ bin/setup
+
++ bin/dev
